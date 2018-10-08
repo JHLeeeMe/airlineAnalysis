@@ -1,4 +1,6 @@
 # airlineAnalysis
+zeppelin-notebook위에서 spark을 활용한 mapReduce작업 및 시각화
+
 spark (on yarn), hdfs, zeppelin-notebook
 
 
