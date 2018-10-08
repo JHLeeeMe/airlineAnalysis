@@ -26,3 +26,6 @@ spark (on yarn), hdfs, zeppelin-notebook
 ## 5. sql문으로 간단한 시각화
 
 ![zeppelin_2](https://user-images.githubusercontent.com/35649392/46274175-7e9ec980-c593-11e8-9983-ba555b5e02e3.png)
+demerit값은 늦게 or 빠르게 출발한 수치의 절댓값으로 계산했다.  
+운항수에 비례해서 sum(demerit)은 오르지만  
+sum(demerit) / 운항수 를 보면 제시간이 출발하는 항공사들을 어느정도 파악 가능  
